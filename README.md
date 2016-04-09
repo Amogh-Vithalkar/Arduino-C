@@ -1,2 +1,2 @@
 # Arduino-C
-Arrduino codes in c
+Arduino codes in c
